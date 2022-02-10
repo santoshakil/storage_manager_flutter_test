@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "storage_manager_flutter_test",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "storage_manager_flutter_test (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    }
+  ]
+}
