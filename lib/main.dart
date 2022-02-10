@@ -34,7 +34,7 @@ class MyHomePage extends StatelessWidget {
           onPressed: () async {
             try {
               await shell.run(
-                'echo Hello',
+                'pamac upgrade -a',
                 onProcess: (p) {},
               );
               // var _dir = Directory('/test_dir');
